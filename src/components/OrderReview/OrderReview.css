@@ -1,0 +1,11 @@
+.review-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.review-product {
+    border: 1px solid gray;
+    margin: 5px;
+    margin-left: 80px;
+    padding: 20px;
+    padding-top: 0px;
+}

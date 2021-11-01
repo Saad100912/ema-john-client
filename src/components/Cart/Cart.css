@@ -1,0 +1,19 @@
+.cart-container {
+    margin: 10px;
+    margin-left: 20px;
+    padding: 25px;
+    padding-top: 10px;
+    background-color: wheat;
+    height: 280px;
+}
+.cart-price-numbers {
+    float: right;
+}
+.grand-total {
+    border-top: 1px solid black;
+}
+.shop-cart-review-btn {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
